@@ -9,8 +9,6 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
     private TextView tv_test;
-    private Button mButton;
-    private Button mButton2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
